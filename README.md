@@ -6,7 +6,3 @@ wget --no-check-certificate -O gost.sh https://raw.githubusercontent.com/siemens
 ````bash 
 bash install.sh
 ````
-# [SSR 4K机场](https://xjycloud.pw)
-# [ V2ray 4K机场](https://tashacloud.com)
-
-# 本脚本源自互联网，此项目仅作备份
